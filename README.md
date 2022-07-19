@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @plageat
-- 👀 I’m interested in Python, Linux, software package management, containers, image recognition, low-level system programming and many-many other things.
-- 🌱 I’m always on a learning stage and will never stop to improve my skill set. 
-- 💞️ I’m looking to collaborate on any Python's OS level software.
-- 📫 Reach me here or there. I am everywhere ;-) 
+- 👋 Hi, I’m @plageat. I am software engineer with 10+ years of experience in developing enterprise level solutions.
+- 👀 I’m strong in Python, Linux, BASH, RESTful, software package management, containers, low-level system programming and related things.
+- 🌱 The highest possiable customer satisfaction. Always on a learning stage and will never stop to improve my skill set. 
+- 💞️ Constatntly looking for collaboration on any Python's OS level software.
+- 📫 Available for consulting in the described above areas and mentoring activities (Python/Linux)
 
 <!---
 plageat/plageat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
